@@ -1,4 +1,4 @@
-def pythonScript = "path/to/your/python_script.py"
+def pythonScript = "p0werfull321/Test/pipeline.py"
 def apiKey = "artifactory-access-token"
 
 // Create a list of command-line arguments to pass to the Python script
