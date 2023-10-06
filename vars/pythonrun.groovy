@@ -1,3 +1,3 @@
 def call(){
-    sh './pipeline.py'
+    sh 'sudo ./pipeline.py'
 }
